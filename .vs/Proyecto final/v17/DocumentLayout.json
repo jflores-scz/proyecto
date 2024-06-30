@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\",
+  "WorkspaceRootPath": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\usuario\\documents\\misael\\programacion lll\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\marci\\onedrive\\escritorio\\prgrmcn3\\ola\\proyectofinal\\proyecto final\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\marci\\onedrive\\escritorio\\prgrmcn3\\ola\\proyectofinal\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\usuario\\documents\\misael\\programacion lll\\proyecto final\\proyecto final\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\marci\\onedrive\\escritorio\\prgrmcn3\\ola\\proyectofinal\\proyecto final\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|c:\\users\\usuario\\documents\\misael\\programacion lll\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BE0F5A4-C72F-4411-AFEB-FFEBB96DF622}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Funciones.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Funciones.cs",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Funciones.cs",
+              "RelativeToolTip": "Proyecto final\\Funciones.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:21:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Series.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Series.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Series.cs",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Series.cs",
+              "RelativeToolTip": "Proyecto final\\Series.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:54:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto final\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Form1.cs",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Form1.cs",
               "RelativeToolTip": "Proyecto final\\Form1.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAADUAAAAFAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA5wGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T13:37:18.953Z",
               "EditorCaption": ""
@@ -40,23 +70,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Funciones.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Funciones.cs",
-              "RelativeDocumentMoniker": "Proyecto final\\Funciones.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Funciones.cs",
-              "RelativeToolTip": "Proyecto final\\Funciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:21:39.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto final\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto final\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T13:01:22.07Z",

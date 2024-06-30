@@ -30,3 +30,20 @@ C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final
 C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.pdb
 C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\ref\Proyecto final.dll
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.exe
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.deps.json
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.runtimeconfig.json
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.Form1.resources
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.GenerateResource.cache
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.sourcelink.json
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\refint\Proyecto final.dll
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Escritorio\prgrmcn3\ola\ProyectoFinal\Proyecto final\obj\Debug\net8.0-windows\ref\Proyecto final.dll

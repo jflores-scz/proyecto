@@ -5,6 +5,7 @@ namespace Proyecto_final
     public partial class Form1 : Form
     {
         Funciones helper = new Funciones();
+        Series ayuda = new Series();
         public Form1()
         {
             InitializeComponent();
@@ -47,7 +48,48 @@ namespace Proyecto_final
         private void button5_Click(object sender, EventArgs e)
         {
             int cantidad = helper.ContarImparesAntesDePar(textBox1.Text);
-            TextoInicial.Text =cantidad.ToString ();
+            TextoInicial.Text = cantidad.ToString();
+        }
+
+        private void aToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int cantidad = ayuda.ObtenerFibonacci(textBox1.Text);
+            TextoInicial.Text = $"El número en la posición {textBox1.Text} de la serie de Fibonacci es: {cantidad.ToString()}";
+        }
+
+        private void bToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int cantidad = ayuda.SumarTerminosSerie(textBox1.Text);
+            TextoInicial.Text = $"La suma de los primeros {textBox1.Text} terminos de la serie es: {cantidad.ToString()}";
+
+        }
+
+        private void cToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int cantidad = ayuda.SeriePares(textBox1.Text);
+            TextoInicial.Text = $"La suma de los primeros {textBox1.Text} terminos de la serie es: {cantidad.ToString()}";
+        }
+
+        private void dToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int cantidad = ayuda.TerminoSerie(textBox1.Text);
+            TextoInicial.Text = $"El termino {textBox1.Text} de la serie es: {cantidad.ToString()}";
+        }
+
+        private void eToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int cantidad = ayuda.SumarTerminosPares(textBox1.Text);
+            TextoInicial.Text = $"La suma de los primeros {textBox1.Text} terminos de la serie es: {cantidad.ToString()}";
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextoInicial_Click(object sender, EventArgs e)
+        {
+
         }
 
 

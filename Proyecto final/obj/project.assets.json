@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\marci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Proyecto final.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Proyecto final.csproj",
       "projectName": "Proyecto final",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\Proyecto final.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Misael\\Programacion lll\\Proyecto final\\Proyecto final\\obj\\",
+      "projectPath": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\Proyecto final.csproj",
+      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marci\\OneDrive\\Escritorio\\prgrmcn3\\ola\\ProyectoFinal\\Proyecto final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

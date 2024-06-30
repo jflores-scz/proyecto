@@ -35,6 +35,14 @@
             button3 = new Button();
             button4 = new Button();
             button5 = new Button();
+            menuStrip1 = new MenuStrip();
+            seriesToolStripMenuItem = new ToolStripMenuItem();
+            aToolStripMenuItem = new ToolStripMenuItem();
+            bToolStripMenuItem = new ToolStripMenuItem();
+            cToolStripMenuItem = new ToolStripMenuItem();
+            dToolStripMenuItem = new ToolStripMenuItem();
+            eToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // TextoInicial
@@ -43,9 +51,10 @@
             TextoInicial.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
             TextoInicial.Location = new Point(340, 50);
             TextoInicial.Name = "TextoInicial";
-            TextoInicial.Size = new Size(65, 25);
+            TextoInicial.Size = new Size(207, 25);
             TextoInicial.TabIndex = 0;
-            TextoInicial.Text = "label1";
+            TextoInicial.Text = "Su respuesta sale aquí";
+            TextoInicial.Click += TextoInicial_Click;
             // 
             // button1
             // 
@@ -109,6 +118,57 @@
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
+            // menuStrip1
+            // 
+            menuStrip1.Items.AddRange(new ToolStripItem[] { seriesToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 24);
+            menuStrip1.TabIndex = 8;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // seriesToolStripMenuItem
+            // 
+            seriesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { aToolStripMenuItem, bToolStripMenuItem, cToolStripMenuItem, dToolStripMenuItem, eToolStripMenuItem });
+            seriesToolStripMenuItem.Name = "seriesToolStripMenuItem";
+            seriesToolStripMenuItem.Size = new Size(49, 20);
+            seriesToolStripMenuItem.Text = "Series";
+            // 
+            // aToolStripMenuItem
+            // 
+            aToolStripMenuItem.Name = "aToolStripMenuItem";
+            aToolStripMenuItem.Size = new Size(180, 22);
+            aToolStripMenuItem.Text = "Ejercicio 1";
+            aToolStripMenuItem.Click += aToolStripMenuItem_Click;
+            // 
+            // bToolStripMenuItem
+            // 
+            bToolStripMenuItem.Name = "bToolStripMenuItem";
+            bToolStripMenuItem.Size = new Size(180, 22);
+            bToolStripMenuItem.Text = "Ejercicio 2";
+            bToolStripMenuItem.Click += bToolStripMenuItem_Click;
+            // 
+            // cToolStripMenuItem
+            // 
+            cToolStripMenuItem.Name = "cToolStripMenuItem";
+            cToolStripMenuItem.Size = new Size(180, 22);
+            cToolStripMenuItem.Text = "Ejercicio 3";
+            cToolStripMenuItem.Click += cToolStripMenuItem_Click;
+            // 
+            // dToolStripMenuItem
+            // 
+            dToolStripMenuItem.Name = "dToolStripMenuItem";
+            dToolStripMenuItem.Size = new Size(180, 22);
+            dToolStripMenuItem.Text = "Ejercicio 4";
+            dToolStripMenuItem.Click += dToolStripMenuItem_Click;
+            // 
+            // eToolStripMenuItem
+            // 
+            eToolStripMenuItem.Name = "eToolStripMenuItem";
+            eToolStripMenuItem.Size = new Size(180, 22);
+            eToolStripMenuItem.Text = "Ejercicio 5";
+            eToolStripMenuItem.Click += eToolStripMenuItem_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -121,8 +181,12 @@
             Controls.Add(textBox1);
             Controls.Add(button1);
             Controls.Add(TextoInicial);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Form1";
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -136,5 +200,12 @@
         private Button button3;
         private Button button4;
         private Button button5;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem seriesToolStripMenuItem;
+        private ToolStripMenuItem aToolStripMenuItem;
+        private ToolStripMenuItem bToolStripMenuItem;
+        private ToolStripMenuItem cToolStripMenuItem;
+        private ToolStripMenuItem dToolStripMenuItem;
+        private ToolStripMenuItem eToolStripMenuItem;
     }
 }
