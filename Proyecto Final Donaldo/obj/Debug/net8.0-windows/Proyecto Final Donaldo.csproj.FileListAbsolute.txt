@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto_Final_Donaldo.Form1.resources
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\bin\Debug\net8.0-windows\Proyecto Final Donaldo.exe
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\bin\Debug\net8.0-windows\Proyecto Final Donaldo.deps.json
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\bin\Debug\net8.0-windows\Proyecto Final Donaldo.runtimeconfig.json
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\bin\Debug\net8.0-windows\Proyecto Final Donaldo.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\bin\Debug\net8.0-windows\Proyecto Final Donaldo.pdb
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\refint\Proyecto Final Donaldo.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.pdb
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\Proyecto Final Donaldo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto Final Donaldo\Proyecto Final Donaldo\obj\Debug\net8.0-windows\ref\Proyecto Final Donaldo.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\proyecto final donaldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|solutionrelative:proyecto final donaldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|c:\\users\\marci\\downloads\\homewor\\proyecto final donaldo\\proyecto final donaldo\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|solutionrelative:proyecto final donaldo\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|c:\\users\\marci\\downloads\\homewor\\proyecto final donaldo\\proyecto final donaldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F27368E-FEF9-42F1-9743-A111ABE71B31}|Proyecto Final Donaldo\\Proyecto Final Donaldo.csproj|solutionrelative:proyecto final donaldo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Donaldo\\Form1.cs",
+              "ToolTip": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Form1.cs",
+              "RelativeToolTip": "Proyecto Final Donaldo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:36:32.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Funciones.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Donaldo\\Funciones.cs",
+              "ToolTip": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Funciones.cs",
+              "RelativeToolTip": "Proyecto Final Donaldo\\Funciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:35:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto Final Donaldo\\Form1.cs",
+              "ToolTip": "C:\\Users\\marci\\Downloads\\homewor\\Proyecto Final Donaldo\\Proyecto Final Donaldo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto Final Donaldo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:34:11.259Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
