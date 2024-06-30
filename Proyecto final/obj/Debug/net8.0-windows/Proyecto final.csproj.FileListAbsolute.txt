@@ -1,0 +1,32 @@
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.exe
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.deps.json
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.runtimeconfig.json
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.dll
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.pdb
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.Form1.resources
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.GenerateResource.cache
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfoInputs.cache
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfo.cs
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.CoreCompileInputs.cache
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.dll
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\refint\Proyecto final.dll
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.pdb
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.genruntimeconfig.cache
+D:\Programacion lll\Misael\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\ref\Proyecto final.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.Form1.resources
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\refint\Proyecto final.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.exe
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.deps.json
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.runtimeconfig.json
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Misael\Programacion lll\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\ref\Proyecto final.dll
